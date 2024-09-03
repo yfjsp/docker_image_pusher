@@ -1,3 +1,2 @@
-prometheus
-grafana
-node_exporter
+prom/prometheus
+grafana/grafana
