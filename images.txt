@@ -3,3 +3,4 @@ grafana/grafana
 prom/node-exporter
 prom/mysqld-exporter
 google/cadvisor
+google/cadvisor:latest
